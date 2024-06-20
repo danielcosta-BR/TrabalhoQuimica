@@ -1,0 +1,29 @@
+<html>
+<head>
+<tittlle> Eletroqu&iacute;mica </title>
+</head>
+<body bgcolor="white">
+<hr>
+<center><h1> Impactos Ambientais e o descarte inadequado de pilhas e baterias </h1></center><hr>
+<center><h2><br><i><hr> Intrudução</i></h2></center></br></hr>
+<center><img src="01.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Tipos de pilhas</hr></i></br></h2></center>
+<center><img src="02.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Impactos Ambientais</hr></i></br></h2></center>
+<center><img src="03.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Contaminação do Solo</hr></i></br></h2></center>
+<center><img src="04.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Danos a Fauna e a Flora</hr></i></br></h2></center>
+<center><img src="05.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Risco a Saúde</hr></i></br></h2></center>
+<center><img src="06.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Lesgislação Ambiental</hr></i></br></h2></center>
+<center><img src="07.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Importância da Coleta Seletiva</hr></i></br></h2></center>
+<center><img src="08.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Conscientização</hr></i></br></h2></center>
+<center><img src="09.PNG"=height="50"pix"width"100p"></center>
+<center><h2><br><i><hr> Conclusão</hr></i></br></h2></center>
+<center><img src="10.PNG"=height="50"pix"width"100p"></center>
+</body>
+</html>

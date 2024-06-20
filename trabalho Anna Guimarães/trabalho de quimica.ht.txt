@@ -1,0 +1,25 @@
+<html>
+<head>
+<tittlle> Eletroqu&iacute;mica </title>
+</head>
+<body bgcolor="green">
+<hr>
+<center><h1> Impactos Ambientais e o descarte inadequado de pilhas e baterias </h1></center><hr>
+<center><h2><i> O problema do descarte inadequado de pilhas e baterias</i></h2></center><br>
+<hr>
+<img src="01.PNG"=height="50"pix"width"100p">
+<center><h2><br><i> Tipos de pilhas</i></br></h2></center>
+<img src="02.PNG"=height="50"pix"width"100p">
+<center><h2><br><i> Impactos Ambientais</i></br></h2></center>
+<img src="03.PNG"=height="50"pix"width"100p">
+<center><h2><br><i> Contaminação do Solo</i></br></h2></center>
+<img src="04.PNG"=height="50"pix"width"100p">
+<center><h2><br><i> Danos a Fauna e a Flora</i></br></h2></center>
+<img src=""=height="50"pix"width"100p">
+<img src=""=height="50"pix"width"100p">
+<img src=""=height="50"pix"width"100p">
+<img src=""=height="50"pix"width"100p">
+<img src=""=height="50"pix"width"100p">
+<img src=""=height="50"pix"width"100p">
+</body>
+</html>
